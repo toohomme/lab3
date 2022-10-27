@@ -28,6 +28,7 @@
 ## Задание 1
 
 Ход работы:
+
 1.Добавляем ML Agent в проект:	
 
 ![image](https://user-images.githubusercontent.com/102966721/198173796-a44ad355-503e-490a-891e-1fcc8126a913.png)
